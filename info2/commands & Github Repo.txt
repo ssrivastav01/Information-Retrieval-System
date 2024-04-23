@@ -1,0 +1,34 @@
+------INSTRUCTIONS AND COMMANDS FOR EXECUTION----------
+1. Save the zip file and extract it in C Drive
+----------------2. To run the crawler------------------
+
+C:\>cd info2
+C:\info2>cd crawler
+
+pip install "scikit-learn>=1.2"
+pip install "Scrapy>=2.11"
+pip install "Flask>=2.2"
+pip install nltk
+
+scrapy crawl product -a url="https://webscraping.dev/product/" -O product.json
+
+----------------3. To run indexer-------------------------
+
+cd ..
+cd indexer
+python inverted_index.py
+
+---------------4. To run Processor------------------------
+
+cd ..
+cd processor
+python main.py
+
+---------------------------------------------------------
+Github Repository Link- https://github.com/ssrivastav01/Information-Retrieval-System.git
+
+
+
+
+
+
