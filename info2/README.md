@@ -28,6 +28,21 @@
 **NAME: SEJAL SRIVASTAV**
 
 **CWID: A20539218**
+**OPERATION**
+1. Run the code in C drive
+2. To run crawler-
+   cd info2
+   cd crawler
+   scrapy crawl product -a url="https://webscraping.dev/product/" -O product.json
+3. To run indexer
+   cd ..
+   cd indexer
+   python inverted_index.py
+4. To run processor
+   cd ..
+   cd processor
+   python main.py
+   
 ## ABSTRACT 
 <a name="abstract"></a>
 **1.ABSTRACT**
