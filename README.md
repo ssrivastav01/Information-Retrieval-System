@@ -11,11 +11,6 @@
 9. [SOURCE CODE](#source-code)
 10. [BIBLIOGRAPHY](#bibliography)
 
-**Professor: Jawahar Panchal**
-
-**NAME: SEJAL SRIVASTAV**
-
-**CWID: A20539218**
 ## ABSTRACT 
 <a name="abstract"></a>
 **1.ABSTRACT**
