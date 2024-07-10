@@ -1,15 +1,3 @@
-<p align="center">
-<h1>CS 429-01 Information Retrieval</h1>
-<h1>Illinois Institute of Technology</h1>
-</p>
-<p align="center">
-<img src= "https://github.com/ssrivastav01/IR-Project/blob/main/info2/Screenshots/Logo.png?raw=true">
-
-
-
-<h1>Project- Information Retrieval System</h1>
-</p>
-<h3>Github Repository- https://github.com/ssrivastav01/Information-Retrieval-System.git</h3>
  **TABLE OF CONTENT**
 
 1. [ABSTRACT](#abstract)
